@@ -1,9 +1,10 @@
 <?php
 /*
-Template Name: Projects Template
+Template Name: Architecture Projects Template
 */
 ?>
-<?php get_header();  // Load the header ?>
+
+<?php get_header();?>
 
 <div class="container">
     <center>
@@ -15,4 +16,4 @@ Template Name: Projects Template
 
 </div>
 
-<?php get_footer();  // Load the footer ?>
+<?php get_footer();?>
